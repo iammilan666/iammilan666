@@ -1,6 +1,6 @@
 # Hi there, I'm Milan 👋
 
-💻 **Computer Science Student | Self-Taught Developer
+💻 Computer Science Student | Self-Taught Developer
 
 ---
 
